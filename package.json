@@ -5,7 +5,7 @@
     "main": "build/litegraph.js",
     "types": "src/litegraph.d.ts",
     "directories": {
-        "doc": "doc"
+        "doc": "docs"
     },
     "private": false,
     "scripts": {
